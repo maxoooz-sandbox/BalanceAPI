@@ -2,11 +2,11 @@
 
 namespace MaXoooZ\BalanceAPI;
 
-use MaXoooZ\command\AddBalance;
-use MaXoooZ\command\Balance;
-use MaXoooZ\command\Pay;
-use MaXoooZ\command\RemoveBalance;
-use MaXoooZ\command\TopBalance;
+use MaXoooZ\BalanceAPI\command\AddBalance;
+use MaXoooZ\BalanceAPI\command\Balance;
+use MaXoooZ\BalanceAPI\command\Pay;
+use MaXoooZ\BalanceAPI\command\RemoveBalance;
+use MaXoooZ\BalanceAPI\command\TopBalance;
 use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase

@@ -1,6 +1,6 @@
 <?php
 
-namespace MaXoooZ\command;
+namespace MaXoooZ\BalanceAPI\command;
 
 use MaXoooZ\BalanceAPI\Main;
 use pocketmine\command\Command;

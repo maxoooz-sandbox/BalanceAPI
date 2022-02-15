@@ -1,6 +1,6 @@
 <?php
 
-namespace MaXoooZ\command;
+namespace MaXoooZ\BalanceAPI\command;
 
 use JsonException;
 use MaXoooZ\BalanceAPI\Main;
@@ -53,7 +53,7 @@ class AddBalance extends Command
     }
 
     /**
-     * Add money on a player balance
+     * Remove money on a player balance
      *
      * @throws JsonException
      */
