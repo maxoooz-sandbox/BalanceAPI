@@ -53,7 +53,7 @@ class AddBalance extends Command
     }
 
     /**
-     * Remove money on a player balance
+     * Add money on a player balance
      *
      * @throws JsonException
      */
