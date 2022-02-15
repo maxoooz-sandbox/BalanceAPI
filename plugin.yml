@@ -1,0 +1,27 @@
+name: BalanceAPI
+main: MaXoooZ\BalanceAPI\Main
+
+author: MaXoooZ
+api: [ 4.0.0 ]
+version: 1.0.0
+
+permissions:
+  command.balanceapi.balance:
+    description: do /balance
+    default: true
+
+  command.balanceapi.pay:
+    description: do /pay
+    default: true
+
+  command.balanceapi.topbalance:
+    description: do /topbalance
+    default: true
+
+  command.balanceapi.removebalance:
+    description: do /removebalance
+    default: true
+
+  command.balanceapi.addbalance:
+    description: do /addbalance
+    default: true

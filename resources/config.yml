@@ -1,0 +1,9 @@
+# Set default balance when player joined the server first
+default-balance: 1000
+
+# Set unique language of server
+lang: en
+
+# Defines the type of file that will contain the balance of the players
+# ** Only support YML & JSON **
+provider: json

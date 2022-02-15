@@ -1,0 +1,57 @@
+# MY_BALANCE:
+# {0} Player balance
+# {1} Player name
+MY_BALANCE: "§aVotre solde est égal à {0}$ !"
+
+# PLAYER_NOT_EXIST:
+# {0} Player name
+PLAYER_NOT_EXIST: "§cLe joueur {0} n'existe pas ou ne possède pas de solde"
+
+# TARGET_BALANCE:
+# {0} Target balance
+# {1} Target name
+TARGET_BALANCE: "§aLe solde de {1} s'éléve à {0}$ !"
+
+# PAY_USE:
+PAY_USE: "§cUtilisation: /pay [pseudo] [montant]"
+
+# TOP_MESSAGE:
+# {0} Actual page
+# {1} Max page
+TOP_MESSAGE: "§fListe des joueurs les plus riches du serveur (Page {0}/{1})"
+
+# TOP_FORMAT:
+# {0} Position of player in top
+# {1} Player name
+# {2} Balance of player
+TOP_FORMAT: "#{0} - {1} with {2}$"
+
+# RM_BALANCE:
+RM_BALANCE: "§cUtilisation: /removebalance [pseudo] [montant]"
+
+# AMOUNT_INVALID:
+AMOUNT_INVALID: "§cLe montant indiqué est invalide"
+
+# RM_BALANCE_SUCCES:
+# {0} Player name
+# {1} Balance removed
+RM_BALANCE_SUCCES: "§aVous venez de supprimé {1}$ du solde de {0}"
+
+# ADD_BALANCE_SUCCES:
+# {0} Player name
+# {1} Balance added
+AD_BALANCE_SUCCES: "§aVous venez d'ajouter {1}$ au solde de {0}"
+
+# POOR_MESSAGE:
+# {0} Amount
+POOR_MESSAGE: "§cVotre solde est inférieur à {0}"
+
+# SUCCES_SENDED:
+# {0} Amount
+# {1} Player name
+SUCCES_SENDED: "§aVous avez envoyé un montant égal à {0}$ à {1}"
+
+# SUCCES_RECEIVED:
+# {0} Amount
+# {1} Player name
+SUCCES_RECEIVED: "§aVous avez recu un montant d'argent égal à {0} de la part de {1}"
